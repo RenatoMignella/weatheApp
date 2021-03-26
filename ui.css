@@ -1,0 +1,29 @@
+h1 {
+  color: orange !important;
+}
+
+#w-humidity {
+  font-size: larger;
+  color: white;
+  background-color: #66bcdf !important;
+}
+#w-dewpoint {
+  font-size: larger;
+  color: white;
+  background-color: #126281 !important;
+}
+#w-feels-like {
+  font-size: larger;
+  color: white;
+  background-color: #66bcdf !important;
+}
+
+#w-wind {
+  font-size: larger;
+  color: white;
+  background-color: #126281 !important;
+}
+
+#button1 {
+  color: orange !important;
+}
